@@ -3,7 +3,7 @@
 
 ## Imports
 
-using DirectDetections, Distributions
+using Octofitter, Distributions
 
 ## DATA
 # Enter your astrometry data here.
